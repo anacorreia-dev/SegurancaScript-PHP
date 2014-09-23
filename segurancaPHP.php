@@ -1,6 +1,6 @@
 <?php
 /*
-  Construindo segurança em aplicações [Básico]  - Controlando dados de entrada e saída
+  Construindo segurança em aplicações PHP [Básico]  - Controlando dados de entrada e saída
   Date: 23/09/2014
   Author: Ana Correia
   Mail: anacorreia.dev@gmail.com
@@ -49,11 +49,11 @@ INPUT_COOKIE
 INPUT_ENV
 INPUT_SERVER
 ...
- */
 
-/*
 Módulo básico para iniciantes de segurança PHP. Você também pode utilizar Bibliotecas já desenvolvidas:
 Repósitorio: https://github.com/Respect/Validation 
 Composer efetuar install
+
+Hasta!
 */
 
